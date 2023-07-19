@@ -1,0 +1,27 @@
+.center{
+    border-width: 4px;
+    padding: 5%;
+    border-style:solid;
+    width:650px;
+    background-color:antiquewhite;
+    margin-left:25%;
+    margin-top:4%;
+}
+button{
+    border-style:solid;
+    border-radius:10%;
+    border-color:rgb(223, 46, 239);
+    background-color: aquamarine;
+    color:rgb(37, 56, 164);
+    width: 120px;
+    height:40px;
+}
+input{
+    width:150px;
+    border: 4px;
+    border-style:solid;
+    height:20px;
+}
+h1{
+    color:red;
+}
